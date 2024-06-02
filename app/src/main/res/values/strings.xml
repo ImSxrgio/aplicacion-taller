@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Taller</string>
+    <string name="text_bienvenidos">Bienvenid@</string>
+    <string name="text_taller">Talleres Robles Gomez S.L</string>
+    <string name="btn_calendario">CALENDARIO</string>
+    <string name="btn_repuestos">REPUESTOS</string>
+    <string name="btn_ajustes">Ajustes</string>
+    <string name="txt_lista">Lista de productos</string>
+    <string name="faro_txt">Faro</string>
+
+    <string name="text_tlf">Teléfono de contacto : 678419680</string>
+    <string name="text_correo">Correo: roblesgomezchapistas@gmail.com</string>
+
+
+</resources>
